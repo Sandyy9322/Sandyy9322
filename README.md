@@ -23,7 +23,7 @@
 ## 🌟 About Me
 
 - 🔭 Currently working on **Full-Stack Web Development** 
-- 🌱 Learning **Next.js**, **TypeScript**, and **Advanced DSA**.
+- 🌱 Learning **Advanced DSA**.
 - 🏡 From **Latur**, Maharashtra.
 - ⚡ Fun fact: **I solve LeetCode problems daily** and enjoy contributing to **open-source** projects.
 
