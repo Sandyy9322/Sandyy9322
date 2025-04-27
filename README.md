@@ -61,7 +61,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
 
 ---
-## 🏆 My Leetcode Badges
+## 🏆 My LeetCode Badges
 <div align="center">
   
   <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 40px; margin: 20px 0;">
