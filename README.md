@@ -61,6 +61,30 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
 
 ---
+## 🏆 My Leetcode Badges
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <a href="https://leetcode.com/Sandyy9322/" target="_blank">
+    <img src="https://github.com/Sandyy9322/coupon-distribution-frontend/blob/main/src/assets/2024-50.gif?raw=true" 
+         alt="LeetCode Badge 1" 
+         style="max-width: 150px; height: auto; border-radius: 15px; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://leetcode.com/Sandyy9322/" target="_blank">
+    <img src="https://github.com/Sandyy9322/coupon-distribution-frontend/blob/main/src/assets/2024-07.gif?raw=true" 
+         alt="LeetCode Badge 2" 
+         style="max-width: 150px; height: auto; border-radius: 15px; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://leetcode.com/Sandyy9322/" target="_blank">
+    <img src="https://github.com/Sandyy9322/coupon-distribution-frontend/blob/main/src/assets/2550.gif?raw=true" 
+         alt="LeetCode Badge 3" 
+         style="max-width: 150px; height: auto; border-radius: 15px; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);" />
+  </a>
+</div>
+
+---
+
+
+
+
 
 ## 📫 Connect With Me:
 
