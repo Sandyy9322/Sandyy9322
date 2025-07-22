@@ -24,7 +24,7 @@
 
 - 🔭 Currently working on **Full-Stack Web Development** 
 - 🌱 Learning **Advanced DSA**.
-- 🏡 From **Latur**, Maharashtra.
+- 🏡 From **Pune**, Maharashtra.
 
 ---
 
