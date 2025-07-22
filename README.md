@@ -3,8 +3,11 @@
 </h1>
 
 <p align="center">
-  <b>🌟 Full Stack Web Developer | 🚀 Real-World Project Creator | 💻 Dedicated Coder</b>
+  <b>
+    💻 Full Stack Web Developer &nbsp;|&nbsp; ⚛️ MERN Stack &nbsp;|&nbsp; 📊 DSA Enthusiast &nbsp;|&nbsp; 🛠️ Real-World Project Builder
+  </b>
 </p>
+
 
 <p align="center">
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
